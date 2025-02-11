@@ -15,4 +15,4 @@
 
 ## 📌 المطور
 👤 ** walid Ahmed**  
-🔗 [ملفك الشخصي على GitHub](https://github.com/Walid-Ahmed-Zidan)
+🔗 [ملفك الشخصي على GitHub](https://github.com/Walid-Ahmed)
